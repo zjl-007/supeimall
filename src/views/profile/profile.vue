@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>profile</h2>
+    <h2>正在开发中</h2>
   </div>
 </template>
   

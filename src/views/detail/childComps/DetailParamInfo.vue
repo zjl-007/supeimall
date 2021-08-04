@@ -31,6 +31,10 @@
     },
     created(){
         //console.log(this.paramInfo);
+        
+    },
+    methods: {
+      
     }
 	}
 </script>

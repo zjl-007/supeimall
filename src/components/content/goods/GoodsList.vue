@@ -12,9 +12,9 @@ export default {
   name: 'GoodList',
   props: {
     goods: {
-      type: Array,
+      type: Object,
       default() {
-        return []
+        return {}
       }
     }
   },

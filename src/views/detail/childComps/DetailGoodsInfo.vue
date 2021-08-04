@@ -63,7 +63,7 @@ export default {
 
   methods: {
     imgLoad() {
-      //console.log('加载DetailGoodsInfo');
+      // console.log('加载DetailGoodsInfo');
       this.$emit("detailImageLoad");
     },
     Imgfilter: function (value) {

@@ -15,7 +15,6 @@
       <div class="info-detail">
         <p>{{commentInfo.content}}</p>
         <div class="info-other">
-          <!-- <span class="date">{{commentInfo.created | showDate}}</span> -->
           <span class="date">{{showDate(commentInfo.created)}}</span>
           <span>{{commentInfo.style}}</span>
         </div>

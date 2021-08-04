@@ -56,6 +56,7 @@ export default {
   padding: 0 8px;
   color: #999;
   border-bottom: 5px solid #f2f5f8;
+  font-size: 12px;
 }
 
 .info-title {
@@ -72,7 +73,7 @@ export default {
 }
 
 .info-price .o-price {
-  font-size: 13px;
+  font-size: 12px;
   margin-left: 5px;
   text-decoration: line-through;
 }
@@ -102,7 +103,6 @@ export default {
 .info-service {
   display: flex;
   justify-content: space-between;
-  line-height: 60px;
 }
 
 .info-service-item img {
@@ -113,7 +113,7 @@ export default {
 }
 
 .info-service-item span {
-  font-size: 13px;
+  font-size: 12px;
   color: #333;
 }
 </style>
